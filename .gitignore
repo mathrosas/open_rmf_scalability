@@ -1,0 +1,30 @@
+# ROS 2 and Colcon generated directories
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Experimental raw data
+results/raw/
+
+# ROS 2 bag recordings
+*.db3
+*.mcap
+
+# Runtime logs
+*.log
+
+# Local environment configuration
+.env
+
+# Editor configuration
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
